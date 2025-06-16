@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsonubisht&label=Profile%20views&color=0e75b6&style=flat" alt="sonu bisht" /> </p>
 
-- 🔭 I’m currently pursuing **Btech 3rd year from Graphic Era Hill University**
+- 🔭 I’m currently pursuing **Btech Final year from Graphic Era Hill University**
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
